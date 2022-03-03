@@ -351,6 +351,19 @@ Canada’s best destination for donating and fundraising online. Free all-in-one
 ### The Chabad Center
 [The Chabad Center](https://www.mishpachaorphanage.org/templates/fundraising/default_cdo/aid/5405630/jewish/Campaign.htm/utm_source/70FM/utm_medium/eblast/utm_campaign/donate) 
 “The Jewish community in Ukraine is in need of your assistance during these dire times. As the threat of war intensifies, Mishpacha Chabad Odessa is preparing to support the hundreds of Jews who are unable to evacuate the country including orphans, students, and Holocaust survivors. Preparations are also underway to absorb Jewish refugees from the surrounding regions of Kharkiv, Kiev, and Dnieper. $500,000 in donations are urgently needed to purchase medical gear, protective equipment, and basic necessities such as clothes and sleeping bags. Money is also needed to help stock emergency shelters with several tons of cereal, buckwheat, sugar, rice, flour and other non-perishable staples. These donations will also help defray the costs of additional security personnel arriving from Israel to help protect the Jewish community.”
+### CNEWA
+"Catholic Near East Welfare Association (CNEWA) has been a lifeline for the poor throughout the Middle East, Northeast Africa, India and Eastern Europe for 90 years."
+
+"Many of us did not believe this could happen. Now an invasion is a reality in all of Ukraine.
+
+On February 24, Ukraine’s borders were attacked and its major cities were bombed by Russian troops. Not being a member of any military alliance, Ukraine is left to withstand the second largest army in the world on its own.
+
+This kind of violence is painful to watch for Christians and people of good will throughout the world. The number of casualties continues to grow and the story is changing by the hour. But what cannot change is our deep commitment to help innocent people whose lives are in danger.
+
+We are reaching out to you for help, if you are able.  A generous family from Alberta has pledged to match all donations in support of humanitarian aid in Ukraine up to $500,000. Please donate generously!"
+### Ukrainian World Congress
+[Donation Website](https://www.ukrainianworldcongress.org/support/)
+"The world is a tragically different place after Russia unleashed war in the heart of Europe in the early hours of February 24, 2022. The Russian Armed Forces are shelling peaceful cities, bringing death and terror to Ukraine and to the whole European continent in an attempt to deprive Ukraine of its independence. The people of Ukraine are resolute and are standing in defense of their families, their homes, and their national dignity. It is up to us to support Ukraine at this critical moment. The Ukrainian World Congress, together with our communities and partners, coordinates much needed emergency humanitarian response, provides medical supplies and protective equipment to Ukraine."
 
 # For the Elderly
 ### Happy Old
