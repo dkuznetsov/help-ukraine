@@ -458,6 +458,18 @@ We are reaching out to you for help, if you are able.  A generous family from Al
 
 "The United Nations World Food Programme is on the ground right now providing critical food assistance for people fleeing the conflict. With your help, we can deliver food directly to Ukrainian people in dire need."
 
+### Spirit of America
+
+[Website](https://spiritofamerica.org/) "this non-profit works closely with US military and State Department personnel in Poland to meet the urgent needs of Ukraine’s Armed Forces on the front lines. They provide medical supplies, first aid kits, and medical equipment for Ukrainian soldiers and field medical personnel to provide emergency humanitarian assistance to Ukrainian refugees who have escaped to safety in Poland. [Donate here](https://fundraise.spiritofamerica.org/give/393083/#!/donation/checkout).
+
+### Nova Ukraine
+
+"this charity provides humanitarian aid to vulnerable groups and individuals in Ukraine. It raises awareness about Ukraine in the United States and throughout the world and supports Ukraine in its effort to build a strong civil society, to reform its educational system, and to eliminate corruption." [Donate Here](https://www.paypal.com/donate?token=Bdzm07l6lK4VP_5tzrZ0oomgMP1RvhgRsnvJ7juKAXcW_bVxdHZuFSlS_T9tCXsmD1citf7ys5pCBFnF)
+
+### The Ukrainian National Women’s League of America
+
+"is collecting donations to help civilians inside Ukraine who have been displaced or injured. The UNWLA was established in 1925 to unite women of Ukrainian descent or affiliation to preserve their ethnic identity and cultural heritage within a framework of volunteer humanitarian endeavors." [Website](https://unwla.org/top-news/call-for-humanitarian-aid/). [Donate here](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=BNGQSKVHL46ZA&source=url).
+
 ## For the Elderly
 
 ### Happy Old
@@ -471,3 +483,13 @@ We are reaching out to you for help, if you are able.  A generous family from Al
 ### Starenki
 
 [Starenki](https://starenki.com.ua/): It’s a charitable initiative devoted to issues of old age in Ukraine. They help lonely seniors by providing them with groceries and hygiene products.
+
+## Other Catalogues
+
+While we make an effort to keep the current list as up-to-date as possible, other people are putting a similar effort in, maintaining formidable lists of places to donate.
+
+- [Ukraine Crisis Media Center](https://uacrisis.org/en/help-ukraine)
+
+- [/r/ukraine](https://www.reddit.com/r/ukraine/comments/s6g5un/want_to_support_ukraine_heres_a_list_of_charities/)
+
+- [Ukrainian London Institute](https://ukrainianinstitute.org.uk/russias-war-against-ukraine-what-can-you-do-to-support-ukraine-ukrainians/)
