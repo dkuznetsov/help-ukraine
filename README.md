@@ -1,5 +1,3 @@
-# Catalogue - Help Ukraine
-
 # Medical
 ### MSF (Médecins Sans Frontieres/Doctors Without Borders)
 MSF runs [a range of activities in Ukraine](https://www.doctorswithoutborders.org/what-we-do/countries/ukraine) working with local volunteers, organizations, health care professionals and authorities to help people travel to health care facilities and access prescribed medications.
@@ -30,6 +28,13 @@ A Québec-based charity that will send first-aid materials to Ukraine.
 "CSI contribue à l’amélioration des services de soins médicaux dans des pays en développement en procurant aux établissements de santé, des équipements, des fournitures médicales et des médicaments."
 
 "Une campagne de socio-financement est en cours via le site de CSI pour financer l’envoi de matériels de soins de première ligne pour aider les personnes touchées par les conflits armés en Ukraine."
+
+### Support Hospitals in Ukraine
+[Organization website](http://www.uahospitals.org/)
+[Donation Page](https://4agc.com/fundraiser_pages/e9aca7e4-13d5-4e67-b6bd-548f94822793#.Xtebj2hKhPZ)
+"We are providing Ukrainian hospitals with much-needed modern medical equipment and supplies shipped from the USA in the form of humanitarian aid. Results to-date: US$3.5 million."
+
+
 # Helping Refugees
 ### International Rescue Committee
 As the conflict in Ukraine escalates, the [International Rescue Committee](https://help.rescue.org/donate/ukraine-acq?ms=ws_resq_top_nav_btn_fy22_ukraine_mmus_feb_n6568&initialms=ws_resq_top_nav_btn_fy22_ukraine_mmus_feb_n6568) is getting ready to prepare for the worst. Right now, it is mobilizing resources to aid the people in Ukraine who were forced to flee their homes.
@@ -191,7 +196,17 @@ The FUDF Fund, organized by the League of Ukrainian Canadians and the League of 
 [https://www.blue-yellow.lt/](https://www.blue-yellow.lt/)
 “This is Lithuanian group that is directly supporting Ukraine militias for 8 years. They have direct contact with them and know the current needs.”
 ### Army SOS
-[https://armysos.com.ua/en/](https://armysos.com.ua/en/)
+[Army SOS](https://armysos.com.ua/en/)
+"Army protects Ukraine!
+Are you ready to help Army today?
+…it could be too late tomorrow…
+
+Army SOS Citizen's Initiative coordinates people's efforts to help soldiers of Ukraine."
+### Ukrainian American Coordinating Council
+[Helmets & Armory Vests for the European Defenders (Facebook)](https://www.facebook.com/donate/3129928640587218/)
+"Ukrainian American Coordinating Council, Razom for Ukraine, and International Charitable Foundation “Come back alive” are uniting their efforts to purchase military-grade Helmets and Armory Vests for the Ukrainian Army and Territorial defense battalions. European defenders are in huge need of these things right now!
+
+UACC is obtaining an export license for regulated military-grade items such as Helmets and Armory Vests. Only this non-profit will be able to send these things to Ukraine via Meest with the support of the Embassy of Ukraine in the USA."
 
 # Children / Education
 ### Voices of Children
