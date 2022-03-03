@@ -352,6 +352,7 @@ Canada’s best destination for donating and fundraising online. Free all-in-one
 [The Chabad Center](https://www.mishpachaorphanage.org/templates/fundraising/default_cdo/aid/5405630/jewish/Campaign.htm/utm_source/70FM/utm_medium/eblast/utm_campaign/donate) 
 “The Jewish community in Ukraine is in need of your assistance during these dire times. As the threat of war intensifies, Mishpacha Chabad Odessa is preparing to support the hundreds of Jews who are unable to evacuate the country including orphans, students, and Holocaust survivors. Preparations are also underway to absorb Jewish refugees from the surrounding regions of Kharkiv, Kiev, and Dnieper. $500,000 in donations are urgently needed to purchase medical gear, protective equipment, and basic necessities such as clothes and sleeping bags. Money is also needed to help stock emergency shelters with several tons of cereal, buckwheat, sugar, rice, flour and other non-perishable staples. These donations will also help defray the costs of additional security personnel arriving from Israel to help protect the Jewish community.”
 ### CNEWA
+[CNEWA Campaign Website](https://cnewa.org/campaigns/ukraine/)
 "Catholic Near East Welfare Association (CNEWA) has been a lifeline for the poor throughout the Middle East, Northeast Africa, India and Eastern Europe for 90 years."
 
 "Many of us did not believe this could happen. Now an invasion is a reality in all of Ukraine.
@@ -366,7 +367,7 @@ We are reaching out to you for help, if you are able.  A generous family from Al
 "The world is a tragically different place after Russia unleashed war in the heart of Europe in the early hours of February 24, 2022. The Russian Armed Forces are shelling peaceful cities, bringing death and terror to Ukraine and to the whole European continent in an attempt to deprive Ukraine of its independence. The people of Ukraine are resolute and are standing in defense of their families, their homes, and their national dignity. It is up to us to support Ukraine at this critical moment. The Ukrainian World Congress, together with our communities and partners, coordinates much needed emergency humanitarian response, provides medical supplies and protective equipment to Ukraine."
 
 ### UN World Food Program
-[UN World Food Program](https://secure.wfpusa.org/donate/ukraineconflict-gsbt?ms=GS_B_EMR_SL_Ukraine&gclid=CjwKCAiAyPyQBhB6EiwAFUuakn1xZCSt0rdtZ7TJKQwZzmO_VeKnHqKs8R9BuPI5FqE1p0INbyxZBxoCCM0QAvD_BwE)
+[UN World Food Program](https://secure.wfpusa.org/donate/ukraineconflict-gsbt)
 "The devastating eruption of war in Ukraine is driving hundreds of thousands of families from their homes and into hunger. Survivors have lost everything and urgently need our help."
 
 "The United Nations World Food Programme is on the ground right now providing critical food assistance for people fleeing the conflict. With your help, we can deliver food directly to Ukrainian people in dire need."
