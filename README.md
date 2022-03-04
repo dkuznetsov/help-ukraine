@@ -100,6 +100,15 @@ The international organization [aims to provide emergency assistance to families
 [**The International Rescue Committee**](https://www.rescue.org/)  
 The International Rescue Committee has a long history of providing resources to refugees fleeing countries facing humanitarian crisis. Its leaders have responded to the situation in Ukraine by meeting with organizations in Poland and Ukraine to gauge the potential number of refugees and their needs so it can quickly mobilize and provide whatever assistance is needed. You can make a donation [via its website](https://help.rescue.org/donate/ukraine-acq). While the organization will accept donations of any size, it states on the site that a monthly donation of $108 will provide eight families with temporary shelter.
 
+### Project Dynamo - Request for Ukraine Evacuation Assistance
+
+[Airtable Form](https://airtable.com/shrJtUmYLB70KGXiS)
+
+"[Help Us Save Americans and Our Allies Abroad](https://www.projectdynamo.org/).
+During the past 20 years, tens of thousands of people in Afghanistan have risked their lives to help U.S. troops in their country — and now they’re facing an extremely dangerous situation at the hands of the Taliban now that the U.S. and NATO troops have withdrawn from the area.
+
+Your donations can help them escape. Monies will be used to transport and airlift them to safety within the United States, Canada, the United Kingdom, and Australia." [Donate Now](https://liberty-aviation-international-rescue.snwbll.com/project-dynamo-donations)
+
 ## Military Support
 
 ### Official Account of Ukraine for the Purpose of Supporting Ukrainian Army
