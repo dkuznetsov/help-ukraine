@@ -20,7 +20,7 @@ Its Ukraine team is preparing to deploy mobile medical teams to provide emergenc
 
 ### Blood Agents
 
-[Blood Agents](https://t.co/YeSSktWhJK): It is an NGO that promotes regular, conscious and gratuitous blood donations. They have encouraged people to donate blood over 5,000 times over the past six years.
+[Blood Agents](https://t.co/YeSSktWhJK): It is an NGO that promotes regular, conscious and gratuitous blood donations. They have encouraged people to donate blood over 5,000 times over the past six years. [Patreon](https://www.patreon.com/BloodAgents) of the initiative.
 
 ### Donor UA
 
@@ -55,6 +55,15 @@ A Québec-based charity that will send first-aid materials to Ukraine.
 ### Revived Soldiers Ukraine
 
 "[Revived Soldiers Ukraine (RSU)](https://www.rsukraine.org/) is a non-profit organization dedicated to providing aid to the people of Ukraine so that they may fulfill fundamental rights and freedoms such as right to life, right to appropriate and affordable medical care, freedom of belief and freedom for an adequate standard of living."
+
+### Help Us Help
+
+[Website](https://helpushelp.charity)
+"Help Us Help is providing urgently requested medical supplies to volunteer medical units in Ukraine. We are working with trusted and established networks on the ground to distribute supplies to those who need it most." [Donate Now](https://helpushelp.charity/donate).
+Also, [Saint Javelin](https://www.saintjavelin.com/):
+"I started Saint Javelin with hopes of raising \$500 by selling stickers to help out during this crisis. Almost two weeks later & we’ve surpassed $650,000!
+
+100% of the proceeds from all our merchandise is donated to a charity I've worked with for years: Help Us Help, a registered charity in Canada that provides humanitarian aid to vulnerable people in Ukraine."
 
 ## Helping Refugees
 
@@ -469,6 +478,19 @@ We are reaching out to you for help, if you are able.  A generous family from Al
 ### The Ukrainian National Women’s League of America
 
 "is collecting donations to help civilians inside Ukraine who have been displaced or injured. The UNWLA was established in 1925 to unite women of Ukrainian descent or affiliation to preserve their ethnic identity and cultural heritage within a framework of volunteer humanitarian endeavors." [Website](https://unwla.org/top-news/call-for-humanitarian-aid/). [Donate here](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=BNGQSKVHL46ZA&source=url).
+
+### Stand With Ukraine
+
+"Mila Kunis and Ashton Kutcher is organizing this fundraiser on behalf of GoFundMe.org."
+
+"Today, I am a proud Ukrainian. While my family came to the United States in 1991, I was born in Chernivtsi, Ukraine in 1983. Ukrainians are proud and brave people who deserve our help in their time of need. This unjust attack on Ukraine and humanity at large is devastating and the Ukrainian people need our support. Our family is starting this fund to help provide immediate support and we will be matching up to $3 million dollars.
+ 
+While we are witnessing the bravery of Ukrainians, we are also bearing witness to the unimaginable burden of those who have chosen safety. Countless amounts of people have left everything they know and love behind to seek refuge. With nothing but what they could carry, these Ukrainian refugees are in need of housing and supplies right away.
+ 
+Through GoFundMe.org, this fundraiser will provide an immediate impact on refugee and humanitarian aid efforts. The fund will benefit Flexport.org and Airbnb.org, two organizations who are actively on the ground providing immediate help to those who need it most."
+
+[Donate Now](https://www.gofundme.com/f/stand-with-ukraine)
+
 
 ## For the Elderly
 
