@@ -65,6 +65,14 @@ Also, [Saint Javelin](https://www.saintjavelin.com/):
 
 100% of the proceeds from all our merchandise is donated to a charity I've worked with for years: Help Us Help, a registered charity in Canada that provides humanitarian aid to vulnerable people in Ukraine."
 
+### Med Help Ukraine
+
+[Website](https://www.medhelpukraine2022.org/)
+A German-based initiative of supplying medicines to Ukraine.
+"(auto-translated) Donate the necessary medicines and medical supplies now and we will help you to deliver them to Ukraine in an uncomplicated manner.
+
+Together with Nova Poshta Global, the largest logistics service provider in Ukraine, the transportation of humanitarian aid from Germany has become easier. Write us a short email to get more details."
+
 ## Helping Refugees
 
 ### International Rescue Committee
