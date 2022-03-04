@@ -506,6 +506,27 @@ Through GoFundMe.org, this fundraiser will provide an immediate impact on refuge
 
 Our top priority is to lend support to the most vulnerable groups: elderly people, women, and children. We are able to reach them thanks to our co-operation with local partners."
 
+### Theatre Stozhary - Commettee to Help Ukraine
+
+"Ваша підтримка - наближає нашу перемогу! _Комітет допомоги Україні_  спрямовує кошти на допомогу Україні та дітям сиротам."
+
+[Donate Now](https://www.gofundme.com/f/h7ajg6)
+
+### United Nations Population Fund
+
+"As fighting escalates in Ukraine, UNFPA warns of the impacts on women and girls.
+
+UNFPA is deeply concerned about the escalation of conflict in Ukraine, and the humanitarian needs will dramatically escalate.
+
+We have been working in Ukraine for decades, expanding access to reproductive health services to some of the hardest-to-reach people. We will stay and scale up the delivery of life-saving services to people in need across the country.
+
+Our staff are on the ground ready to deliver essential medicines, supplies and services to ensure that reproductive health care is sustained.
+
+We need your urgent help today to reach more women and girls in Ukraine."
+
+[Donate Now](https://www.unfpa.org/donate/Ukraine?form=UkraineAppeal&utm_source=Test_98&utm_medium=UkraineMar22&utm_campaign=HO-UA-22-Ukraine
+)
+
 ## For the Elderly
 
 ### Happy Old
