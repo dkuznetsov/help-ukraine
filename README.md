@@ -117,6 +117,10 @@ During the past 20 years, tens of thousands of people in Afghanistan have risked
 
 Your donations can help them escape. Monies will be used to transport and airlift them to safety within the United States, Canada, the United Kingdom, and Australia." [Donate Now](https://liberty-aviation-international-rescue.snwbll.com/project-dynamo-donations)
 
+### Canadians Helping Ukrainian Refugees
+
+[Group on Facebook](https://www.facebook.com/groups/3148765652075065/)
+
 ## Military Support
 
 ### Official Account of Ukraine for the Purpose of Supporting Ukrainian Army
@@ -534,6 +538,13 @@ We need your urgent help today to reach more women and girls in Ukraine."
 
 [Donate Now](https://www.unfpa.org/donate/Ukraine?form=UkraineAppeal&utm_source=Test_98&utm_medium=UkraineMar22&utm_campaign=HO-UA-22-Ukraine
 )
+
+### Humane Society International
+
+"HSI is providing necessary support, including emergency funds, to groups that are helping the Ukrainian people and the animals in their care who have been devastated by Russia’s military invasion. You can join us by rushing a gift to our emergency response for Ukraine and other rescue and relief efforts here.
+
+Your donation will directly support lifesaving work to protect animals around the globe affected by disasters such as earthquakes, fires or tsunamis, humanitarian crises like the military invasion in Ukraine and those suffering at the hands of humans in situations like dog meat farms, hoarding cases and animal fighting rings." [Donate Now](https://donate.hsi.org/page/36521/donate/1)
+
 
 ## For the Elderly
 
