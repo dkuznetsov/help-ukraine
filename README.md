@@ -73,6 +73,15 @@ A German-based initiative of supplying medicines to Ukraine.
 
 Together with Nova Poshta Global, the largest logistics service provider in Ukraine, the transportation of humanitarian aid from Germany has become easier. Write us a short email to get more details."
 
+### Leleka Foundation
+
+[Website](https://leleka.care/donate/)
+"Leleka Foundation is a US-based non-profit organization that raises charitable funds and implements medical and social support projects in Ukraine."
+
+### United Help Ukraine
+
+[Website](https://unitedhelpukraine.org/)
+
 ## Helping Refugees
 
 ### International Rescue Committee
@@ -120,6 +129,26 @@ Your donations can help them escape. Monies will be used to transport and airlif
 ### Canadians Helping Ukrainian Refugees
 
 [Group on Facebook](https://www.facebook.com/groups/3148765652075065/)
+
+### Ukraine Aid Berlin
+
+[Website](https://www.ukraine-hilfe-berlin.de/)
+"Der Schwerpunkt unserer Arbeit liegt in der Unterstützung der Menschen in Not, Kriegsopfer und deren Angehörigen, sowie Hilfe für medizinische und pflegerische Einrichtungen in der Ukraine.
+
+Wir engagieren uns mit der medizinischen und humanitären Hilfe für die Ukraine. Dazu holen wir bei unterschiedlichen Organisationen Sachspenden ein und leiten diese an die geprüfte vertraute Kliniken und Feldhospitals in der Ukraine weiter."
+
+"The focus of our work is to support people in need, war victims and their families, as well as help for medical and nursing facilities in Ukraine.
+
+We are engaged in medical and humanitarian aid to Ukraine. To do this, we collect donations in kind from various organizations and forward them to trusted, certified clinics and field hospitals in Ukraine. "
+
+### [Calling for Help](https://www.callingforhelp.org/)
+
+"There is a Digital Poverty Gap which puts refugees with a disability in real danger.
+
+Without access to mobile technology disabled refugees have no voice, no self-determination, and no equality of opportunities.
+
+We send free mobile phone top-ups to refugees with a disability.
+A £5 top-up allows a person to find safety, have a voice and use assistive apps to personally connect with humanitarian agencies in their area."
 
 ## Military Support
 
@@ -245,6 +274,10 @@ Official crypto accounts:
 - ETH - 0x165CD37b4C644C2921454429E7F9358d18A45e14
 - USDT (trc20) - TEFccmfQ38cZS1DTZVhsxKVDckA8Y6VfCy
 
+### Phoenix Wings
+
+[Website](http://wings-phoenix.org.ua/en/about-fund/) "The Charitable Organization “Charitable Foundation ”PHOENIX WINGS” provides the Ukrainian army with the necessary assistance in regards to the appropriate equipment & uniform, personal non-lethal protection (vests, helmets), required treatment of the wounded soldiers and acquisition the personal first aid kits, and repair of the buildings used by the army."
+
 ### Friends of Ukraine Defence Forces Fund
 
 [Website](https://www.fudffund.ca/)
@@ -284,6 +317,11 @@ Army SOS Citizen's Initiative coordinates people's efforts to help soldiers of U
 "Ukrainian American Coordinating Council, Razom for Ukraine, and International Charitable Foundation “Come back alive” are uniting their efforts to purchase military-grade Helmets and Armory Vests for the Ukrainian Army and Territorial defense battalions. European defenders are in huge need of these things right now!
 
 UACC is obtaining an export license for regulated military-grade items such as Helmets and Armory Vests. Only this non-profit will be able to send these things to Ukraine via Meest with the support of the Embassy of Ukraine in the USA."
+
+### Ukrainian Women Veteran Movement
+
+[Ukrainian Women Veteran Movement Website](https://www.uwvm.org.ua/?page_id=3031&lang=en)
+"We help the defenders of Ukraine, as well as the people who suffered from the Russian invasion."
 
 ## Children / Education
 
@@ -558,6 +596,21 @@ Ukrainians are standing up for freedom, democracy and the right of a nation to f
 Brave Ukrainian freedom fighters are making the ultimate sacrifice for their families and the future of their children.
 
 You can make a difference today by donating in support of the defenders of Ukraine. Please [donate today](https://www.paypal.com/donate?token=T74s5ndzK2G2Auc8izzVukR8QC8JqJNl_TvsN0KMyI7RDBGsVocZNhsV6s3hC0MX6hEdD6c96kYgFSV_)."
+
+### [Vostok SOS](https://vostok-sos.org/en/about-the-funds-activity-in-wartime/)
+
+"Our charity fund has been helping war victims since 2014. Now we are working not only with Donetsk and Luhansk regions, but with the whole of Ukraine.
+
+We buy and distribute humanitarian aid to those who are affected by the shelling of their settlements. The food and hygiene products in the country are running out, so we are working on establishing the supply of humanitarian aid from abroad.
+
+We have started the work of our team’s headquarters in Uzhgorod and we will coordinate assistance throughout Ukraine from here. You can follow all the updates and find useful information about evacuation/places of temporary residence or legal assistance on our social media pages:"
+
+### Support Ukraine Coordination Hub (in association with Ukrainian Club in London)
+
+[Website](https://supportukraine.uk/)
+"This British-Ukrainian initiative – Support Ukraine Coordination Hub – has been established together with the Ukrainian Club in London focusing on one key aim: effectively delivering much needed aid to Ukrainian people.
+
+Through the coordination and streamlining of different resources of humanitarian and financial aid from both British citizens and the British-Ukrainian community, we are bringing various efforts together, aligning priorities and ensuring the efficient supply of aid to Ukraine. Support Ukraine Coordination Hub is working with the full support of official Ukrainian government organisations, especially the Ukrainian Embassy in Great Britain."
 
 ## For the Elderly
 
