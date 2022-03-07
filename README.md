@@ -545,6 +545,19 @@ We need your urgent help today to reach more women and girls in Ukraine."
 
 Your donation will directly support lifesaving work to protect animals around the globe affected by disasters such as earthquakes, fires or tsunamis, humanitarian crises like the military invasion in Ukraine and those suffering at the hands of humans in situations like dog meat farms, hoarding cases and animal fighting rings." [Donate Now](https://donate.hsi.org/page/36521/donate/1)
 
+### Caritas Ukraine
+
+[Website](https://www.caritas.eu/caritas-ukraine/). "Warm meals, clean clothes, and medical and emotional support. Caritas Moldova is welcoming families from Ukraine in warm accommodation while outside it is freezing. Watch the [video](https://vimeo.com/684327975/2cc070fcba)"
+
+### Unite with Ukraine
+
+[Donate Today](https://www.unitewithukraine.com/donate_today). "It's time to Unite with Ukraine in the fight for freedom
+
+Ukrainians are standing up for freedom, democracy and the right of a nation to freely make its own decisions.
+
+Brave Ukrainian freedom fighters are making the ultimate sacrifice for their families and the future of their children.
+
+You can make a difference today by donating in support of the defenders of Ukraine. Please [donate today](https://www.paypal.com/donate?token=T74s5ndzK2G2Auc8izzVukR8QC8JqJNl_TvsN0KMyI7RDBGsVocZNhsV6s3hC0MX6hEdD6c96kYgFSV_)."
 
 ## For the Elderly
 
