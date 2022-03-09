@@ -1,4 +1,4 @@
-# A Curated List of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine
+# A Curated List of Help Recipients - Organizations, Governments, and Initiatives - for the People of Ukraine
 
 ## Medical
 
@@ -20,7 +20,7 @@ Its Ukraine team is preparing to deploy mobile medical teams to provide emergenc
 
 ### Blood Agents
 
-[Blood Agents](https://t.co/YeSSktWhJK): It is an NGO that promotes regular, conscious and gratuitous blood donations. They have encouraged people to donate blood over 5,000 times over the past six years. [Patreon](https://www.patreon.com/BloodAgents) of the initiative.
+[Blood Agents](https://t.co/YeSSktWhJK): It is an NGO that promotes regular, conscious, and gratuitous blood donations. They have encouraged people to donate blood over 5,000 times over the past six years. [Patreon](https://www.patreon.com/BloodAgents) of the initiative.
 
 ### Donor UA
 
@@ -29,7 +29,7 @@ Its Ukraine team is preparing to deploy mobile medical teams to provide emergenc
 ### Project Hope
 
 **[Project Hope](https://www.projecthope.org/)**  
-Project Hope is an international organization that coordinates with health-care workers to provide on-the-ground medical support to countries in crisis. “With some 3 million people in Ukraine already in need of urgent humanitarian assistance even before the Russian military incursion, immediate medical support is needed to prevent the country from spiraling even deeper into a humanitarian crisis that could impact millions of people,” Project Hope writes on its website. It's currently sending medical supplies to Ukrainians. You can make donations via [its website](https://www.projecthope.org/crisis-in-ukraine-how-to-help/02/2022/) using a credit/debit card, bank transfer, or PayPal.
+Project Hope is an international organization that coordinates with healthcare workers to provide on-the-ground medical support to countries in crisis. “With some 3 million people in Ukraine already in need of urgent humanitarian assistance even before the Russian military incursion, immediate medical support is needed to prevent the country from spiraling even deeper into a humanitarian crisis that could impact millions of people,” Project Hope writes on its website. It's currently sending medical supplies to Ukrainians. You can make donations via [its website](https://www.projecthope.org/crisis-in-ukraine-how-to-help/02/2022/) using a credit/debit card, bank transfer, or PayPal.
 
 ### Sunflower of Peace
 
@@ -88,7 +88,7 @@ Together with Nova Poshta Global, the largest logistics service provider in Ukra
 
 As the conflict in Ukraine escalates, the [International Rescue Committee](https://help.rescue.org/donate/ukraine-acq?ms=ws_resq_top_nav_btn_fy22_ukraine_mmus_feb_n6568&initialms=ws_resq_top_nav_btn_fy22_ukraine_mmus_feb_n6568) is getting ready to prepare for the worst. Right now, it is mobilizing resources to aid the people in Ukraine who were forced to flee their homes.
 
-"The IRC is meeting with partners and local civil society organizations in Poland and Ukraine to assess capacity for responding to an increase of refugees and people in need," said the organization on its [official website](https://www.rescue.org/press-release/russia-invades-ukraine-and-civilians-desperately-seek-safety-irc-prepares-worst-and). "We will work to respond where we are needed the most and with the services that are needed urgently. Whatever the needs are, we are preparing to meet them.”
+"The IRC is meeting with partners and local civil society organizations in Poland and Ukraine to assess capacity for responding to an increase of refugees and people in need" said the organization on its [official website](https://www.rescue.org/press-release/russia-invades-ukraine-and-civilians-desperately-seek-safety-irc-prepares-worst-and). "We will work to respond where we are needed the most and with the services that are needed urgently. Whatever the needs are, we are preparing to meet them.”
 
 ### Global Empowerment Mission
 
@@ -96,13 +96,13 @@ As the conflict in Ukraine escalates, the [International Rescue Committee](https
 
 "They have an opportunity to stay with a friend of theirs, you know, (in) a bordering country where they’re in the warm and they can eat nice meals at the table," GEM founder Michael Capponi told Sanders.
 
-[BStrong](https://bethenny.com/bstrong) "BStrong in partnership with Global Empowerment Mission has committed to sending 100,000 hygiene kits, blankets, generators, and sleeping bags to Ukraine's NATO bordering countries.Initial commitment of supplies will exceed $10M. Our teams will be on the ground in Rzeszów Poland (Polish border to Ukraine) starting February 25, 2022 setting up base camp refugee operations with our Polish and Ukrainian partners."
+[BStrong](https://bethenny.com/bstrong) "BStrong in partnership with Global Empowerment Mission has committed to sending 100,000 hygiene kits, blankets, generators, and sleeping bags to Ukraine's NATO bordering countries. Initial commitment of supplies will exceed $10M. Our teams will be on the ground in Rzeszów Poland (Polish border to Ukraine) starting February 25, 2022 setting up base camp refugee operations with our Polish and Ukrainian partners."
 
 [**globalempowermentmission.org**](https://www.globalempowermentmission.org/)
 
 ### World Central Kitchen
 
-For many refugees, food is an immediate need. Chef Jose Andrés has set up his World Central Kitchen on the ground at the Ukraine-Poland border providing warm meals for the hungry.
+For many refugees, food is an immediate need. Chef Jose Andrés has set up his World Central Kitchen on the ground at the Ukraine-Poland border provides warm meals for the hungry.
 
 "Nothing sends a bigger message of hope than a humble plate of food. And that’s the only thing we know how to do," Andrés said. "America is gonna be with the people of Ukraine."
 
@@ -110,7 +110,7 @@ For many refugees, food is an immediate need. Chef Jose Andrés has set up his W
 
 The international organization [aims to provide emergency assistance to families in Ukraine](https://www.unrefugees.org/what-we-do/) — providing [aid such as cash assistance and opportunities](https://give.unrefugees.org/220224ukr_emer_d_4983/) for resettlement in the U.S.
 
-"UNHCR is working with the authorities, UN and other partners in Ukraine and is ready to provide humanitarian assistance wherever necessary and possible. To that effect, security and access for humanitarian efforts must be guaranteed," the organization [said](https://www.unhcr.org/news/press/2022/2/621770524/statement-situation-ukraine-attributed-un-high-commissioner-refugees-filippo.html) in a statement.
+"UNHCR is working with the authorities, UN, and other partners in Ukraine and is ready to provide humanitarian assistance wherever necessary and possible. To that effect, security and access for humanitarian efforts must be guaranteed," the organization [said](https://www.unhcr.org/news/press/2022/2/621770524/statement-situation-ukraine-attributed-un-high-commissioner-refugees-filippo.html) in a statement.
 
 ### The International Rescue Committee
 
@@ -145,7 +145,7 @@ We are engaged in medical and humanitarian aid to Ukraine. To do this, we collec
 
 "There is a Digital Poverty Gap which puts refugees with a disability in real danger.
 
-Without access to mobile technology disabled refugees have no voice, no self-determination, and no equality of opportunities.
+Without access to mobile technology, disabled refugees have no voice, no self-determination, and no equality of opportunities.
 
 We send free mobile phone top-ups to refugees with a disability.
 A £5 top-up allows a person to find safety, have a voice and use assistive apps to personally connect with humanitarian agencies in their area."
@@ -283,7 +283,7 @@ Official crypto accounts:
 [Website](https://www.fudffund.ca/)
 Donors of the FUDF Fund have been assisting those serving in the Armed Forces as well as the casualties of war, displaced persons, families of those serving and children who have lost a parent due to war.
 
-The FUDF Fund, organized by the League of Ukrainian Canadians and the League of Ukrainian Canadian Women, has supported the servicemen and women of the Armed Forces of Ukraine. FUDF Fund has raised over $3,000,000 and provided defensive body armour, medical supplies, hygiene products and other humanitarian assistance necessities.
+The FUDF Fund, organized by the League of Ukrainian Canadians and the League of Ukrainian Canadian Women, has supported the servicemen and women of the Armed Forces of Ukraine. FUDF Fund has raised over $3,000,000 and provided defensive body armour, medical supplies, hygiene products, and other humanitarian assistance necessities.
 
 ### Save Life
 
@@ -341,7 +341,7 @@ Save the Children's specialist teams will also help Ukrainian children get acces
 
 ### Orphan's Aid Society
 
-[Orphan's Aid Society](http://www.oasukraine.org/): "OAS provides material and moral support for Ukrainian orphans and half orphans up to 18 years of age. For those orphans pursuing their education in institutions of higher learning stipend assistance can be maintained. OAS focuses on children outside of state funded institutions. It is our belief that a family environment is more conducive to a child’s development than that of an institution. Hence our approach of providing direct financial assistance to guardians and relatives of orphans who might otherwise not be able to support an orphaned child."
+[Orphan's Aid Society](http://www.oasukraine.org/): "OAS provides material and moral support for Ukrainian orphans and half-orphans up to 18 years of age. For those orphans pursuing their education in institutions of higher learning stipend assistance can be maintained. OAS focuses on children outside of state-funded institutions. It is our belief that a family environment is more conducive to a child’s development than that of an institution. Hence our approach of providing direct financial assistance to guardians and relatives of orphans who might otherwise not be able to support an orphaned child."
 
 ## Civil Society and Human Rights
 
@@ -445,7 +445,7 @@ Money raised will enable the Red Cross and Red Crescent Movement to respond to h
 
 [Gofundme page](https://www.gofundme.com/f/helpukrainenow-ukraine-humanitarian-appeal)
 [Official CUF Website](http://www.cufoundation.ca)
-Last week, Russia declared war on Ukraine. The Russian army has attacked military facilities, infrastructure and civilian targets. The WHO health cluster estimates that the number of affected people has climbed from 2.9 million a week ago, to over 18 million today.
+Last week, Russia declared war on Ukraine. The Russian army has attacked military facilities, infrastructure, and civilian targets. The WHO health cluster estimates that the number of affected people has climbed from 2.9 million a week ago, to over 18 million today.
 
 The Ukraine Humanitarian Appeal, established by the Ukrainian Canadian Congress (UCC) and the Canada-Ukraine Foundation (CUF) is working with Ukrainian government ministries, who are in the best position to advise on the needs on the ground so that we can ensure that the donations we receive meet the needs of the Ukrainian people.
 
@@ -493,13 +493,13 @@ The humanitarian organization aims to raise $20 million and help at least 4 mill
 
 ### Canada Helps
 
-Canada’s best destination for donating and fundraising online. Free all-in-one solution for all your giving needs. Donate to or fundraise for any Canadian charity and we’ll ensure the money reaches your favourite charity fast. We provide instant tax receipts as well as options to give monthly, give anonymously, and track your personal donations.
+Canada’s best destination for donating and fundraising online. Free all-in-one solution for all your giving needs. Donate to or fundraise for any Canadian charity and we’ll ensure the money reaches your favorite charity fast. We provide instant tax receipts as well as options to give monthly, give anonymously, and track your personal donations.
 [Canada Helps - Donate to Ukraine](https://www.canadahelps.org/en/donate-to-ukraine/)
 
 ### The Chabad Center
 
 [The Chabad Center](https://www.mishpachaorphanage.org/templates/fundraising/default_cdo/aid/5405630/jewish/Campaign.htm/utm_source/70FM/utm_medium/eblast/utm_campaign/donate)
-“The Jewish community in Ukraine is in need of your assistance during these dire times. As the threat of war intensifies, Mishpacha Chabad Odessa is preparing to support the hundreds of Jews who are unable to evacuate the country including orphans, students, and Holocaust survivors. Preparations are also underway to absorb Jewish refugees from the surrounding regions of Kharkiv, Kiev, and Dnieper. $500,000 in donations are urgently needed to purchase medical gear, protective equipment, and basic necessities such as clothes and sleeping bags. Money is also needed to help stock emergency shelters with several tons of cereal, buckwheat, sugar, rice, flour and other non-perishable staples. These donations will also help defray the costs of additional security personnel arriving from Israel to help protect the Jewish community.”
+“The Jewish community in Ukraine is in need of your assistance during these dire times. As the threat of war intensifies, Mishpacha Chabad Odessa is preparing to support the hundreds of Jews who are unable to evacuate the country including orphans, students, and Holocaust survivors. Preparations are also underway to absorb Jewish refugees from the surrounding regions of Kharkiv, Kiev, and Dnipro. $500,000 in donations are urgently needed to purchase medical gear, protective equipment, and basic necessities such as clothes and sleeping bags. Money is also needed to help stock emergency shelters with several tons of cereal, buckwheat, sugar, rice, flour and other non-perishable staples. These donations will also help defray the costs of additional security personnel arriving from Israel to help protect the Jewish community.”
 
 ### CNEWA
 
@@ -510,7 +510,7 @@ Canada’s best destination for donating and fundraising online. Free all-in-one
 
 On February 24, Ukraine’s borders were attacked and its major cities were bombed by Russian troops. Not being a member of any military alliance, Ukraine is left to withstand the second largest army in the world on its own.
 
-This kind of violence is painful to watch for Christians and people of good will throughout the world. The number of casualties continues to grow and the story is changing by the hour. But what cannot change is our deep commitment to help innocent people whose lives are in danger.
+This kind of violence is painful to watch for Christians and people of goodwill throughout the world. The number of casualties continues to grow and the story is changing by the hour. But what cannot change is our deep commitment to help innocent people whose lives are in danger.
 
 We are reaching out to you for help, if you are able.  A generous family from Alberta has pledged to match all donations in support of humanitarian aid in Ukraine up to $500,000. Please donate generously!"
 
@@ -556,7 +556,7 @@ Through GoFundMe.org, this fundraiser will provide an immediate impact on refuge
 
 Our top priority is to lend support to the most vulnerable groups: elderly people, women, and children. We are able to reach them thanks to our co-operation with local partners."
 
-### Theatre Stozhary - Commettee to Help Ukraine
+### Theatre Stozhary - Committee to Help Ukraine
 
 "Ваша підтримка - наближає нашу перемогу! _Комітет допомоги Україні_  спрямовує кошти на допомогу Україні та дітям сиротам."
 
@@ -610,7 +610,7 @@ We have started the work of our team’s headquarters in Uzhgorod and we will co
 [Website](https://supportukraine.uk/)
 "This British-Ukrainian initiative – Support Ukraine Coordination Hub – has been established together with the Ukrainian Club in London focusing on one key aim: effectively delivering much needed aid to Ukrainian people.
 
-Through the coordination and streamlining of different resources of humanitarian and financial aid from both British citizens and the British-Ukrainian community, we are bringing various efforts together, aligning priorities and ensuring the efficient supply of aid to Ukraine. Support Ukraine Coordination Hub is working with the full support of official Ukrainian government organisations, especially the Ukrainian Embassy in Great Britain."
+Through the coordination and streamlining of different resources of humanitarian and financial aid from both British citizens and the British-Ukrainian community, we are bringing various efforts together, aligning priorities and ensuring the efficient supply of aid to Ukraine. Support Ukraine Coordination Hub is working with the full support of official Ukrainian government organizations, especially the Ukrainian Embassy in Great Britain."
 
 ## For the Elderly
 
