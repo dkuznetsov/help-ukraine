@@ -150,6 +150,10 @@ Without access to mobile technology, disabled refugees have no voice, no self-de
 We send free mobile phone top-ups to refugees with a disability.
 A £5 top-up allows a person to find safety, have a voice and use assistive apps to personally connect with humanitarian agencies in their area."
 
+### Ukraine Evacuation Convoy
+
+"we are helping thousands of Ukrainians get to the EU borders SAFELY. We need immediate funds to secure the buses for the next few days. Please PM me with any questions." [Donate Now](https://www.facebook.com/donate/469689211550331/)
+
 ## Military Support
 
 ### Official Account of Ukraine for the Purpose of Supporting Ukrainian Army
@@ -343,6 +347,18 @@ Save the Children's specialist teams will also help Ukrainian children get acces
 
 [Orphan's Aid Society](http://www.oasukraine.org/): "OAS provides material and moral support for Ukrainian orphans and half-orphans up to 18 years of age. For those orphans pursuing their education in institutions of higher learning stipend assistance can be maintained. OAS focuses on children outside of state-funded institutions. It is our belief that a family environment is more conducive to a child’s development than that of an institution. Hence our approach of providing direct financial assistance to guardians and relatives of orphans who might otherwise not be able to support an orphaned child."
 
+### Lumos
+
+"[Lumos](https://www.wearelumos.org/), formerly known as Children's High Level Group and briefly as The Children's Voice, is an international non-governmental charity founded by the author of Harry Potter, J. K. Rowling, which promotes an end to the institutionalisation of children worldwide."
+
+"We’ve been supporting the government in Ukraine to reform the care system to better protect vulnerable children and prevent family separation. The invasion by Russian forces means more children are now in danger.
+
+Lumos has been working extensively in the Zhytomyr region of Ukraine, west of the capital Kyiv, an area now under attack from Russian forces. Prior to the invasion, there were over 1,500 children trapped in orphanages in the region, and around 100,000 children living in institutions in the country.
+
+Children in Ukraine face an uncertain future and are at risk of displacement and family separation. We urgently need your support to help protect as many children as we can by providing emergency food, hygiene and medical kits, and by helping to support families and foster carers to look after displaced and traumatised children."
+
+[Donate Now](https://www.wearelumos.org/get-involved/ukraine-appeal/)
+
 ## Civil Society and Human Rights
 
 ### Razom for Ukraine
@@ -447,7 +463,7 @@ Money raised will enable the Red Cross and Red Crescent Movement to respond to h
 [Official CUF Website](http://www.cufoundation.ca)
 Last week, Russia declared war on Ukraine. The Russian army has attacked military facilities, infrastructure, and civilian targets. The WHO health cluster estimates that the number of affected people has climbed from 2.9 million a week ago, to over 18 million today.
 
-The Ukraine Humanitarian Appeal, established by the Ukrainian Canadian Congress (UCC) and the Canada-Ukraine Foundation (CUF) is working with Ukrainian government ministries, who are in the best position to advise on the needs on the ground so that we can ensure that the donations we receive meet the needs of the Ukrainian people.
+The Ukraine Humanitarian Appeal, established by the [Ukrainian Canadian Congress (UCC)](http://www.ucc.ca) and the Canada-Ukraine Foundation (CUF) is working with Ukrainian government ministries, who are in the best position to advise on the needs on the ground so that we can ensure that the donations we receive meet the needs of the Ukrainian people.
 
 The UCC-CUF Ukraine Humanitarian Appeal has already deployed approximately $500,000 CAD to provide food packages, medicine and shelter. Subsequent tranches of support will follow as we monitor delivery and needs.
 
@@ -610,7 +626,7 @@ We have started the work of our team’s headquarters in Uzhgorod and we will co
 [Website](https://supportukraine.uk/)
 "This British-Ukrainian initiative – Support Ukraine Coordination Hub – has been established together with the Ukrainian Club in London focusing on one key aim: effectively delivering much needed aid to Ukrainian people.
 
-Through the coordination and streamlining of different resources of humanitarian and financial aid from both British citizens and the British-Ukrainian community, we are bringing various efforts together, aligning priorities and ensuring the efficient supply of aid to Ukraine. Support Ukraine Coordination Hub is working with the full support of official Ukrainian government organizations, especially the Ukrainian Embassy in Great Britain."
+Through the coordination and streamlining of different resources of humanitarian and financial aid from both British citizens and the British-Ukrainian community, we are bringing various efforts together, aligning priorities and ensuring the efficient supply of aid to Ukraine. Support Ukraine Coordination Hub is working with the full support of official Ukrainian government organisations, especially the Ukrainian Embassy in Great Britain."
 
 ## For the Elderly
 
